@@ -1,0 +1,1 @@
+[20-Aug-2024 20:54:41 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/arsipdok/public_html/pdam.arsipdokumen.my.id/vendor/composer/platform_check.php on line 24
